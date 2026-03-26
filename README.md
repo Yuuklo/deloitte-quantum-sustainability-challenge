@@ -18,6 +18,7 @@ This repository contains the following folders:
 
 - `data`
 - `notebooks`
+- `reports`
 ---
 Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`  
 Services: `AWS Braket`, `IBM Quantum`
