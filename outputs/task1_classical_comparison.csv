@@ -1,0 +1,4 @@
+Model,ROC-AUC,PR-AUC,Recall,Precision,F1,Balanced Acc,Brier Score
+Logistic Regression,0.847,0.684,0.785,0.519,0.625,0.778,0.176
+Random Forest,0.79,0.583,0.727,0.428,0.539,0.711,0.195
+HistGradientBoosting,0.832,0.636,0.767,0.475,0.587,0.75,0.179
