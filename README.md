@@ -22,4 +22,4 @@ This repository contains the following folders:
 - `outputs`
 ---
 Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`  
-Services: `AWS Braket`, `IBM Quantum`
+Services: `IBM Quantum`
